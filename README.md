@@ -1,7 +1,5 @@
 # Music Discord Bot
 
-testtttt test test
-
 A Discord Bot made to play music within Discord itself.
 
 ## Description

@@ -17,7 +17,7 @@ discord.js
 ### Executing program
 
 * In the terminal 
-```
+
 
 ## Help
 
@@ -33,12 +33,19 @@ Contributors names and contact info
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## Version History
+## Authors
 
-* 0.2
+- Christina Aragon
+   * 
+- Blake Smith
+   * [@Blake Smith](bjsmith2600@eagle.fgcu.edu)
+- Rose Meyers
+   * 
+
+## Version History
+- 1.2
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
+- 1.1
     * Initial Release
 
 ## License

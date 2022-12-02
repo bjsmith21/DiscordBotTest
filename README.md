@@ -4,26 +4,19 @@ A Discord Bot made to play music within Discord itself.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is the first iteration of the Discord Music Bot. This file consists of test code so we are able to track if the Bot is online in the server.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+node.js
+discord.js
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
+* In the terminal 
 ```
 
 ## Help
